@@ -10,3 +10,4 @@ Modern Video Large Language Models (VLLMs) often rely on uniform frame sampling 
   journal={arXiv preprint arXiv:2502.03183},
   year={2025}
 }# MaxInfo
+# MaxInfo
